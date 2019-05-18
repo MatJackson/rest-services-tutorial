@@ -1,13 +1,13 @@
-package com.jackson.restservicestutorial;
+package com.jackson.payroll;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestServicesTutorialApplication {
+public class PayrollApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestServicesTutorialApplication.class, args);
+		SpringApplication.run(PayrollApplication.class, args);
 	}
 
 }
